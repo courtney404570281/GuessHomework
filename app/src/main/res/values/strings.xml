@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">GuessHomework</string>
     <string name="action_settings">Settings</string>
+    <string name="please_enter_a_number">Please enter a number(1~10)</string>
+    <string name="bingo">Bingo!</string>
+    <string name="Higher">Higher</string>
+    <string name="Lower">Lower</string>
+    <string name="Message">Message</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_material" translatable="false">MaterialActivity</string>
+    <string name="restart">Restart?</string>
+    <string name="excellent">Excellent! The number is</string>
+    <string name="cancel">Cancel</string>
 </resources>
